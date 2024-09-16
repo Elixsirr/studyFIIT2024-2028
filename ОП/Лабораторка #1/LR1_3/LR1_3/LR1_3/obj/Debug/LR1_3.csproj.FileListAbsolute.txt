@@ -1,0 +1,7 @@
+C:\Users\stud314\AppData\Local\Temporary Projects\LR1_3\bin\Debug\LR1_3.exe
+C:\Users\stud314\AppData\Local\Temporary Projects\LR1_3\bin\Debug\LR1_3.pdb
+C:\Users\stud314\AppData\Local\Temporary Projects\LR1_3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stud314\AppData\Local\Temporary Projects\LR1_3\obj\Debug\LR1_3.exe
+C:\Users\stud314\AppData\Local\Temporary Projects\LR1_3\obj\Debug\LR1_3.pdb
+\\mscs-fs\data\314_user_data\1 семестр - C# 2024-2025\1 семестр - Отчеты\6102\Михайлов Артём\LR13\LR1_3\LR1_3\obj\Debug\LR1_3.exe
+\\mscs-fs\data\314_user_data\1 семестр - C# 2024-2025\1 семестр - Отчеты\6102\Михайлов Артём\LR13\LR1_3\LR1_3\obj\Debug\LR1_3.pdb
